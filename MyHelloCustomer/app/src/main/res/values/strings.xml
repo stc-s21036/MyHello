@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">イベントとリスナ</string>
+    <string name="tv_address">住まいを入力してください</string>
+    <string name="tv_name">お名前を入力してください</string>
+    <string name="bt_click">表示</string>
+    <string name="bt_adclear">住まいクリア</string>
+    <string name="bt_nmclear">お名前クリア</string>
+</resources>
